@@ -34,7 +34,7 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Florentin KABORE
     enable: yes
     quicklinks:
       - alt: HTML5 UP
@@ -46,18 +46,18 @@ params:
         url: https://www.twitter.com
       - icon: fa-facebook
         label: Facebook
-        url: https://www.facebook.com
+        url: https://m.facebook.com/florentin.kabore.98
       - icon: fa-instagram
         label: Instagram
         url: https://www.instagram.com
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/florentink
       - icon: fa-linkedin
         label: LinkedIn
         url: https://www.linkedin.com
   image: ''
-  name: Your name
+  name: Florentin kabore
   navigation:
     button1:
       - name: Get Started
